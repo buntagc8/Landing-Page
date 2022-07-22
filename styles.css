@@ -2,7 +2,13 @@
 body {
     font-family: 'Roboto', sans-serif; 
 }
-
+/* Removing bullet points from navigation links */
 ul {
-
+    list-style-type: none;
 }
+/* Removing link color from navigation */
+a {
+    text-decoration: none;
+    color: black;
+}
+
