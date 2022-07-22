@@ -10,10 +10,22 @@ ul {
 /* Removing link color from navigation */
 a {
     text-decoration: none;
-    color: white;
 }
 /* Styling first hero section */
 .first-container {
     background-color: #1f2937;
     
+}
+
+/* Styling main and secondary hero text */
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+
+}
+/* Styling secondary hero and link text */
+.hero-secondary, a {
+    font-size: 18px;
+    color: #e5e7eb;
 }
