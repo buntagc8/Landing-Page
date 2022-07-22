@@ -29,3 +29,8 @@ a {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+/* Styling logo */
+.logo img {
+    width: 160px;
+}
