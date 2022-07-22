@@ -11,4 +11,8 @@ a {
     text-decoration: none;
     color: black;
 }
-
+/* Styling first hero section */
+.first-container {
+    background-color: #1f2937;
+    
+}
