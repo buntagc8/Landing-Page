@@ -34,3 +34,9 @@ a {
 .logo img {
     width: 160px;
 }
+
+/* Styling links */
+.links {
+    display: flex;
+    justify-content: flex-end;
+}
