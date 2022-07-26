@@ -34,13 +34,14 @@ a {
 .logo img {
     width: 160px;
     margin-left: 100px;
+    padding-top: 8px;
 }
 
 /* Styling links */
 .links {
     display: flex;
     justify-content: flex-end;
-    margin-top: -35px;
+    margin-top: -40px;
     margin-right: 100px;
     gap: 100px;
     padding: 8px;
