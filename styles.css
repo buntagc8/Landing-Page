@@ -52,5 +52,5 @@ a {
 .gif {
     display: flex;
     justify-content: flex-end;
-    
+    padding: 50px;
 }
