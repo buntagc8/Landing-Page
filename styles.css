@@ -40,5 +40,6 @@ a {
     display: flex;
     justify-content: flex-end;
     margin-top: -35px;
-    
+    gap: 30px;  
+
 }
