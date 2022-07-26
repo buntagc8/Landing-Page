@@ -20,6 +20,8 @@ a {
 /* Styling main and hero text */
 .hero {
     inline-size: 700px;
+    margin-left: 200px;
+    margin-top: 80px;   
 }
 
 /* Styling main hero text */
