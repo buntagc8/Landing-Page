@@ -32,8 +32,10 @@ a {
 /* Styling main hero text */
 .hero-main {
     font-size: 48px;
+    text-shadow: 2px 2px #33cc33;
     font-weight: bolder;
     color: #f9faf8;
+    
 
 }
 /* Styling secondary hero and link text */
@@ -56,6 +58,7 @@ a {
     margin-top: -40px;
     margin-right: 100px;
     gap: 100px;
+    font-weight: bold;
     padding: 8px;
 
 }
