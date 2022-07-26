@@ -13,8 +13,9 @@ a {
 }
 /* Styling first hero section */
 .first-container {
-    background-color: #1f2937;
-    height: 503px;
+    background-image: url('https://media.giphy.com/media/ipx22jkfgZCz0gryGS/giphy.gif');
+    background-size: 100%;
+    height: 703px;
     
 }
 /* Styling main and hero text */
@@ -59,8 +60,8 @@ a {
 .gif {
     display: flex;
     justify-content: flex-end;
-    padding: 50px;
     margin-right: 60px;
+    margin-top: -180px;
     
     
 }
