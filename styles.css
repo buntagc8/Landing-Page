@@ -2,6 +2,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
+    cursor: pointer;
 }
 /* Removing bullet points from navigation links */
 ul {
@@ -75,6 +76,7 @@ button {
     border-radius: 10px;
     color: white;
     background: linear-gradient(45deg,#b5b2b1, #404040);
+    cursor: pointer;
 }
 /* adding hover effect to button */
 button:hover {
