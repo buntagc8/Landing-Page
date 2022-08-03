@@ -77,11 +77,14 @@ a {
 button {
     font-size: 15px;
     padding: 10px 10px;
-    box-shadow:
+    border: 1px;
+    border-radius: 10px;
+    background-color: #b0b0b0;
+    color: white;
 }
 /* adding hover effect to button */
-button:hover {
-    background-color: #4caf50;
+/* button:hover {
+    background-color: red;
     color: white;
     transition-duration: 0.5s;
-}
+} */
