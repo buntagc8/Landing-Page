@@ -78,10 +78,10 @@ button {
     font-size: 15px;
     padding: 10px 10px;
     box-shadow:
-    transition-duration: 0.5s;
 }
-
+/* adding hover effect to button */
 button:hover {
     background-color: #4caf50;
     color: white;
+    transition-duration: 0.5s;
 }
