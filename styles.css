@@ -32,7 +32,7 @@ a {
 /* Styling main hero text */
 .hero-main {
     font-size: 48px;
-    text-shadow: 2px 2px #33cc33;
+    text-shadow: 3px 2px #37a679;
     font-weight: bolder;
     color: #f9faf8;
     
@@ -64,6 +64,9 @@ a {
 
 }
 
+a:hover {
+    color: #37a679;
+}
 /* Styling button */
 button {
     font-size: 15px;
@@ -74,8 +77,7 @@ button {
     background: linear-gradient(45deg,#b5b2b1, #404040);
 }
 /* adding hover effect to button */
-/* button:hover {
-    background-color: red;
-    color: white;
+button:hover {
+    background: linear-gradient(140deg,#b5b2b1, #404040);
     transition-duration: 0.5s;
-} */
+}
