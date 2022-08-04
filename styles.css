@@ -91,10 +91,12 @@ button:hover {
     font-weight: bold;
     font-size: 36px;
     color: black;
+    text-align: center;
+    
 
 }
 
-.drivers {
-    text-align: center;
-    display: flex;
+.drivers :not(.title) {
+    display: inline;
+   
 }
