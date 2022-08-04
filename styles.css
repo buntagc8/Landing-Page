@@ -93,10 +93,15 @@ button:hover {
     color: black;
     text-align: center;
     
-
 }
 
-.drivers :not(.title) {
-    display: inline;
+.drivers {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 
     
+}
+
+.names {
+    text-align: center;
 }
