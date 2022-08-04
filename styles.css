@@ -2,6 +2,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
+    flex-wrap: nowrap;
 }
 /* Removing bullet points from navigation links */
 ul {
@@ -42,6 +43,7 @@ a {
 .hero-secondary, a {
     font-size: 18px;
     color: #e5e7eb;
+    text-shadow: 2px 2px black;
 }
 
 /* Styling logo */
@@ -83,3 +85,5 @@ button:hover {
     background: linear-gradient(140deg,#b5b2b1, #404040);
     transition-duration: 0.5s;
 }
+
+/* Styling middle section of landing page */
