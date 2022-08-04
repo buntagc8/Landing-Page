@@ -87,3 +87,14 @@ button:hover {
 }
 
 /* Styling middle section of landing page */
+.title {
+    font-weight: bold;
+    font-size: 36px;
+    color: black;
+
+}
+
+.drivers {
+    text-align: center;
+    display: flex;
+}
