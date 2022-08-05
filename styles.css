@@ -115,6 +115,7 @@ button:hover {
 .names {
     text-align: center;
     margin: 10px;
+
 }
 
 /* Styling quote */
@@ -133,11 +134,13 @@ button:hover {
     font-style: italic;
     font-weight: lighter;
     color: #1F2937;
+    text-shadow: 1px 2px #37a679;
 }
 
 .author {
     margin-top: 90px;
     font-weight: bolder;
+    
     
 }
 
