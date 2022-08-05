@@ -92,6 +92,8 @@ button:hover {
     font-size: 36px;
     color: black;
     text-align: center;
+    margin: 30px;
+    font-style: italic;
     
     
 }
