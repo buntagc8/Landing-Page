@@ -98,27 +98,26 @@ button:hover {
     
     
 }
-
+/* Styling driver's images and names */
 .drivers {
     display: flex;
     justify-content: space-around;
-    margin-top: 60px;
-    
-    
-    
+    margin-top: 60px; 
 }
-
+/* Styling driver's images and names */
 .nob img, .max img, .keiichi img {
     border-radius: 50px 10px;
     border: 6px inset #37a679;
-    
-    
 }
 
-
+/* Styling driver's images and names */
 .names {
     text-align: center;
     margin: 10px;
-     
-    
+}
+
+/* Styling quote */
+
+.quote img {
+    height: 300px;
 }
