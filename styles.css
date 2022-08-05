@@ -118,6 +118,8 @@ button:hover {
 
 /* Styling quote */
 
-.quote img {
-    height: 300px;
+.quote {
+    background-color: #E5E7EB;
+
+
 }
