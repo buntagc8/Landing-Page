@@ -121,6 +121,7 @@ button:hover {
 
 .quote-container {
     background-color: #E5E7EB;
+    height: 300px;
 
 }
 
@@ -129,4 +130,5 @@ button:hover {
     font-style: italic;
     font-weight: lighter;
     color: #1F2937;
+    text-align: center;
 }
