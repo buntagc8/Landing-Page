@@ -104,10 +104,14 @@ button:hover {
 
 .nob img, .max img, .keiichi img {
     border-radius: 50px 10px;
-    border: 8px inset #37a679;
+    border: 6px inset #37a679;
+    
 }
 
 
 .names {
     text-align: center;
+    margin: 10px;
+     
+    
 }
