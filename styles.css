@@ -94,6 +94,7 @@ button:hover {
     text-align: center;
     margin: 30px;
     font-style: italic;
+    text-shadow: 3px 3px #37a679;
     
     
 }
@@ -102,6 +103,7 @@ button:hover {
     display: flex;
     justify-content: space-around;
     margin-top: 60px;
+    
     
     
 }
