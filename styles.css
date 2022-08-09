@@ -158,15 +158,14 @@ button:hover {
     border-radius: 10px;
     
     
+    
+    
 
 }
 /* Styling banner heading */
-.banner-heading {
+.banner-text p {
     font-size: 16px;
     font-weight: bold;
 }
 
 /* Styling banner text */
-.banner-text {
-    align-self: flex-end;
-}
