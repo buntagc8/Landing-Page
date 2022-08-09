@@ -115,8 +115,8 @@ button:hover {
 .names {
     text-align: center;
     margin: 10px;
-
 }
+
 
 /* Styling quote */
 
@@ -145,3 +145,6 @@ button:hover {
 }
 
 /* Styling banner */ 
+.banner {
+    background: #37a679;
+}
