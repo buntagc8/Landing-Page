@@ -149,7 +149,8 @@ button:hover {
 .banner {
     display: flex;
     background: #37a679;
-    width: 1000px;
+    width: 900px;
+    height: 90px;
     margin: auto;
     margin-top: 140px;
 
