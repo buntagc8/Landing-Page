@@ -170,5 +170,9 @@ button:hover {
 
 .banner-text {
     margin-right: 100px;
+}
 
-/* Styling banner text */
+/* Styling banner paragraph text */
+.banner-text p {
+    margin-top: -15px;
+}
