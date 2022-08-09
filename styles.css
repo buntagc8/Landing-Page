@@ -155,6 +155,8 @@ button:hover {
     margin-top: 120px;
     justify-content: center;
     align-items: center;
+    
+    
 
 }
 /* Styling banner heading */
@@ -165,5 +167,5 @@ button:hover {
 
 /* Styling banner text */
 .banner-text {
-    
+    align-self: flex-end;
 }
