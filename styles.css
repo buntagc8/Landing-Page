@@ -156,3 +156,7 @@ button:hover {
 
 }
 /* Styling banner heading */
+.banner-heading {
+    font-size: 16px;
+    font-weight: bold;
+}
