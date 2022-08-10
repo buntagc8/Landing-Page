@@ -120,7 +120,14 @@ a:hover {
 .names {
     text-align: center;
     margin: 10px;
+    color: #ffffff;
     
+}
+
+/* Styling box around drivers names */
+.name-box {
+    background-color: #000000;
+    height: 25px;
 }
 
 
