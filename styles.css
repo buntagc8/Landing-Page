@@ -173,12 +173,20 @@ a:hover {
     margin-top: -15px;
 }
 
+/* Styling second button */
+
 #button2 {
     font-size: 15px;
     padding: 10px 10px;
     border: 1px;
     border-radius: 10px;
     color: #000000;
-    background: linear-gradient(45deg,#ffffff, #ffffff);
+    font-weight: bold;
+    background: white;
     cursor: pointer;
+}
+
+#button2:hover {
+    color: #ffffff;
+    background-color: #ff0000;
 }
