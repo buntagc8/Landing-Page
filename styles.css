@@ -118,15 +118,14 @@ a:hover {
 
 /* Styling driver's images and names */
 .names {
-    margin: 10px;
     color: #ffffff;
-    
 }
 
 /* Styling box around drivers names */
 .name-box {
     background-color: #37a679;
     border-radius: 50px 10px;
+    margin: 10px;
     height: 25px;
     display: flex;
     justify-content: center;
