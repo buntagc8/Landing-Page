@@ -187,6 +187,7 @@ a:hover {
     font-weight: bold;
     background: white;
     cursor: pointer;
+    box-shadow: 1px 3px #000000;
 }
 
 #button2:hover {
