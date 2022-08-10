@@ -5,7 +5,8 @@ body {
     flex-wrap: nowrap;
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 100%;
+    
     
 }
 /* Removing bullet points from navigation links */
@@ -160,6 +161,7 @@ a:hover {
     align-items: center;
     border-radius: 10px;
     margin-bottom: 180px;
+    
 
 }
 /* Styling banner heading */
@@ -208,6 +210,9 @@ a:hover {
     height: 55px;
     background-color: #37a679;
     color: white;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
     
