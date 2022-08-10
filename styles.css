@@ -162,10 +162,13 @@ a:hover {
 .banner-text h3 {
     font-size: 20px;
     
+    
 }
 
 .banner-text {
     margin-right: 100px;
+    color: #ffffff;
+    text-shadow: 2px 1px #000000;
 }
 
 /* Styling banner paragraph text */
