@@ -132,6 +132,7 @@ a:hover {
     justify-content: center;
     align-items: center;
     border: 6px outset #37a679;
+    text-shadow: 2px 1px #000000;
 }
 /* Styling names of drivers */
 
