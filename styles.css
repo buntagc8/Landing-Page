@@ -131,8 +131,15 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 6px outset #37a679;
 }
+/* Styling names of drivers */
 
+i {
+    color: yellow;
+    font-weight: bold;
+}
+    
 
 /* Styling quote */
 
@@ -229,4 +236,3 @@ a:hover {
     font-style: italic
 
 }
-    
