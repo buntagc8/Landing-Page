@@ -2,10 +2,10 @@
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     display: flex;
     flex-direction: column;
-    min-height: 100%;
+    height: auto;
     
     
 }
@@ -27,9 +27,11 @@ a {
 }
 /* Styling main and hero text */
 .hero {
-    inline-size: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    margin-top: 200px;
     margin-left: 600px;
     margin-right: 600px;
     
@@ -101,8 +103,6 @@ a:hover {
     margin: 30px;
     font-style: italic;
     text-shadow: 3px 3px #37a679;
-    
-    
 }
 /* Styling driver's images and names */
 .drivers {
